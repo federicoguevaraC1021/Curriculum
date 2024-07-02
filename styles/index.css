@@ -113,7 +113,7 @@ nav a{
 }
 
 #content_center{
-    width: 40%;
+    width: 25%;
     height: 100%;
     background-color: chartreuse;
     display: flex;
@@ -127,24 +127,13 @@ nav a{
     border-radius: 50%;
 }
 
-#content_left h3{
-    margin-top: 40px; 
+#content_left h3, #content_rigth h3{
+    margin-top: 50px; 
     font-size: 22px;  
 }
 
-#content_left h4{
-    margin-top: 0px; 
+#content_left h4, #content_rigth h4{
     font-size: 20px;  
-}
-
-#content_rigth h3{
-    margin-top: 40px;   
-    font-size: 22px;
-}
-
-#content_rigth h4{
-    margin-top: 0px;
-    font-size: 20px; 
 }
 
 #content_left h3, #content_left h4{
